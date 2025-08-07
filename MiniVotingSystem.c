@@ -149,4 +149,5 @@ int main()
     printf("*********Thanks for using my program as a mini voting system*********");
 
     return 0;
+
 }
